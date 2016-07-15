@@ -1,6 +1,7 @@
 package com.gildedrose;
 
 public class Item {
+	//Changes done by jaspreet
 
     public String name;
 

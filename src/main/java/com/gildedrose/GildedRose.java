@@ -1,6 +1,6 @@
 package com.gildedrose;
 
-//my name is jaspreet
+//Changes done by jaspreet
 
 class GildedRose {
     Item[] items;
